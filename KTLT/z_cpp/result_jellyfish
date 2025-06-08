@@ -1,0 +1,151 @@
+ports_count = 26
+ToR_connect = 18
+switch_count = 720
+servers_count = 4500
+
+
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 15397 ms
+
+Start simulation...
+Simulation completed in 30 ms:
+Processed 25217 events
+Simulation ran for 11025 time units
+Packages sent: 4500
+Packages delivered: 4500
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 5709.62 time units
+Total throughput: 408.163 bits/time unit
+Network utilization: 33.5881%
+
+Top 5 busiest links:
+Link 810 (33 - 587): 9000 bits, 0.816327 bits/time unit throughput
+Link 10682 (677 - 704): 8000 bits, 0.725624 bits/time unit throughput
+Link 10614 (667 - 1573): 8000 bits, 0.725624 bits/time unit throughput
+Link 5344 (253 - 707): 8000 bits, 0.725624 bits/time unit throughput
+Link 4598 (213 - 561): 8000 bits, 0.725624 bits/time unit throughput
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 7713 ms
+
+Start simulation...
+Simulation completed in 21 ms:
+Processed 25218 events
+Simulation ran for 11015 time units
+Packages sent: 4500
+Packages delivered: 4500
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 5701.14 time units
+Total throughput: 408.534 bits/time unit
+Network utilization: 33.7492%
+
+Top 5 busiest links:
+Link 10922 (709 - 4248): 8000 bits, 0.726282 bits/time unit throughput
+Link 8365 (445 - 1905): 8000 bits, 0.726282 bits/time unit throughput
+Link 6413 (314 - 445): 8000 bits, 0.726282 bits/time unit throughput
+Link 2790 (121 - 128): 8000 bits, 0.726282 bits/time unit throughput
+Link 2668 (116 - 368): 8000 bits, 0.726282 bits/time unit throughput
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 8179 ms
+
+Start simulation...
+Simulation completed in 27 ms:
+Processed 25274 events
+Simulation ran for 10029 time units
+Packages sent: 4500
+Packages delivered: 4500
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 5709.21 time units
+Total throughput: 448.699 bits/time unit
+Network utilization: 37.1825%
+
+Top 5 busiest links:
+Link 4355 (202 - 534): 8000 bits, 0.797687 bits/time unit throughput
+Link 4241 (196 - 368): 8000 bits, 0.797687 bits/time unit throughput
+Link 10657 (672 - 3986): 7000 bits, 0.697976 bits/time unit throughput
+Link 8980 (502 - 685): 7000 bits, 0.697976 bits/time unit throughput
+Link 8346 (452 - 514): 7000 bits, 0.697976 bits/time unit throughput
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 7594 ms
+
+Start simulation...
+Simulation completed in 29 ms:
+Processed 25228 events
+Simulation ran for 11025 time units
+Packages sent: 4500
+Packages delivered: 4500
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 5691.54 time units
+Total throughput: 408.163 bits/time unit
+Network utilization: 33.7817%
+
+Top 5 busiest links:
+Link 7219 (366 - 655): 9000 bits, 0.816327 bits/time unit throughput
+Link 5954 (289 - 521): 8000 bits, 0.725624 bits/time unit throughput
+Link 1648 (69 - 203): 8000 bits, 0.725624 bits/time unit throughput
+Link 10458 (646 - 664): 7000 bits, 0.634921 bits/time unit throughput
+Link 10357 (634 - 690): 7000 bits, 0.634921 bits/time unit throughput
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 6787 ms
+
+Start simulation...
+Simulation completed in 22 ms:
+Processed 25211 events
+Simulation ran for 12023 time units
+Packages sent: 4500
+Packages delivered: 4500
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 5690.63 time units
+Total throughput: 374.283 bits/time unit
+Network utilization: 30.9121%
+
+Top 5 busiest links:
+Link 3381 (151 - 213): 9000 bits, 0.748565 bits/time unit throughput
+Link 8787 (480 - 512): 8000 bits, 0.665391 bits/time unit throughput
+Link 7818 (404 - 634): 8000 bits, 0.665391 bits/time unit throughput
+Link 7362 (372 - 385): 8000 bits, 0.665391 bits/time unit throughput
+Link 5278 (248 - 369): 8000 bits, 0.665391 bits/time unit throughput

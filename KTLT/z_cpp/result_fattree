@@ -1,0 +1,203 @@
+port_count = 26
+switch = 845
+servers = 4394
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 25577 ms
+
+Start simulation...
+Simulation completed in 1171 ms:
+Processed 30428 events
+Simulation ran for 13029 time units
+Packages sent: 4394
+Packages delivered: 4394
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 7528.06 time units
+Total throughput: 337.248 bits/time unit
+Network utilization: 37.1236%
+
+Top 5 busiest links:
+Link 2518 (96 - 460): 9000 bits, 0.690767 bits/time unit throughput
+Link 7921 (440 - 771): 8000 bits, 0.614015 bits/time unit throughput
+Link 7525 (409 - 752): 8000 bits, 0.614015 bits/time unit throughput
+Link 5266 (236 - 573): 8000 bits, 0.614015 bits/time unit throughput
+Link 5033 (218 - 548): 8000 bits, 0.614015 bits/time unit throughput
+
+
+
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 7733 ms
+
+Start simulation...
+Simulation completed in 17 ms:
+Processed 30392 events
+Simulation ran for 13026 time units
+Packages sent: 4394
+Packages delivered: 4394
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 7485.25 time units
+Total throughput: 337.325 bits/time unit
+Network utilization: 37.0653%
+
+Top 5 busiest links:
+Link 2173 (83 - 369): 9000 bits, 0.690926 bits/time unit throughput
+Link 8656 (496 - 843): 8000 bits, 0.614156 bits/time unit throughput
+Link 6739 (349 - 681): 8000 bits, 0.614156 bits/time unit throughput
+Link 5306 (239 - 574): 8000 bits, 0.614156 bits/time unit throughput
+Link 4030 (155 - 181): 8000 bits, 0.614156 bits/time unit throughput
+
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 11515 ms
+
+Start simulation...
+Simulation completed in 33 ms:
+Processed 30400 events
+Simulation ran for 14026 time units
+Packages sent: 4394
+Packages delivered: 4394
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 7483.32 time units
+Total throughput: 313.275 bits/time unit
+Network utilization: 34.6016%
+
+Top 5 busiest links:
+Link 4291 (165 - 191): 9000 bits, 0.641665 bits/time unit throughput
+Link 5767 (274 - 619): 8000 bits, 0.570369 bits/time unit throughput
+Link 4852 (204 - 536): 8000 bits, 0.570369 bits/time unit throughput
+Link 4768 (197 - 543): 8000 bits, 0.570369 bits/time unit throughput
+Link 4641 (188 - 520): 8000 bits, 0.570369 bits/time unit throughput
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 6490 ms
+
+Start simulation...
+Simulation completed in 19 ms:
+Processed 30346 events
+Simulation ran for 13033 time units
+Packages sent: 4394
+Packages delivered: 4394
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 7444.51 time units
+Total throughput: 337.144 bits/time unit
+Network utilization: 36.9164%
+
+Top 5 busiest links:
+Link 7226 (386 - 726): 10000 bits, 0.767283 bits/time unit throughput
+Link 8482 (483 - 825): 8000 bits, 0.613826 bits/time unit throughput
+Link 7868 (436 - 770): 8000 bits, 0.613826 bits/time unit throughput
+Link 6113 (301 - 640): 8000 bits, 0.613826 bits/time unit throughput
+Link 4491 (176 - 513): 8000 bits, 0.613826 bits/time unit throughput
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 41426 ms
+
+Start simulation...
+Simulation completed in 6994 ms:
+Processed 30356 events
+Simulation ran for 15023 time units
+Packages sent: 4394
+Packages delivered: 4394
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 7426.05 time units
+Total throughput: 292.485 bits/time unit
+Network utilization: 32.1246%
+
+Top 5 busiest links:
+Link 2993 (115 - 219): 10000 bits, 0.665646 bits/time unit throughput
+Link 8469 (482 - 825): 8000 bits, 0.532517 bits/time unit throughput
+Link 6761 (351 - 690): 8000 bits, 0.532517 bits/time unit throughput
+Link 3823 (147 - 186): 8000 bits, 0.532517 bits/time unit throughput
+Link 1820 (70 - 174): 8000 bits, 0.532517 bits/time unit throughput
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 85156 ms
+
+Start simulation...
+Simulation completed in 98 ms:
+Processed 25173 events
+Simulation ran for 11023 time units
+Packages sent: 4500
+Packages delivered: 4500
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 5672.53 time units
+Total throughput: 408.237 bits/time unit
+Network utilization: 33.6516%
+
+Top 5 busiest links:
+Link 2737 (121 - 2553): 9000 bits, 0.816475 bits/time unit throughput
+Link 1609 (69 - 402): 9000 bits, 0.816475 bits/time unit throughput
+Link 2390 (104 - 2629): 8000 bits, 0.725755 bits/time unit throughput
+Link 10404 (639 - 3411): 7000 bits, 0.635036 bits/time unit throughput
+Link 9012 (498 - 587): 7000 bits, 0.635036 bits/time unit throughput
+
+
+
+
+
+
+
+Generating topology...
+Computing simple routing table...
+Preprocessing completed in 3 ms
+
+Start simulation...
+Simulation completed in 0 ms:
+Processed 102 events
+Simulation ran for 9034 time units
+Packages sent: 16
+Packages delivered: 16
+Packages dropped: 0
+Delivery rate: 100%
+Average delivery time: 6152 time units
+Total throughput: 1.77109 bits/time unit
+Network utilization: 44.3999%
+
+Top 5 busiest links:
+Link 44 (18 - 32): 4000 bits, 0.442772 bits/time unit throughput
+Link 38 (15 - 26): 4000 bits, 0.442772 bits/time unit throughput
+Link 21 (6 - 15): 4000 bits, 0.442772 bits/time unit throughput
+Link 37 (14 - 25): 3000 bits, 0.332079 bits/time unit throughput
+Link 35 (13 - 23): 3000 bits, 0.332079 bits/time unit throughput
